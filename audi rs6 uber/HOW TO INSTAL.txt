@@ -1,0 +1,9 @@
+wejść w ścieszkę 
+ update/update.rpf/common/data
+szykamy pliku o nazwie dlclist.xml i go edytujemy 
+dodajemy linijkę    	<Item>dlcpacks:\rs6avant20\</Item>
+i zapisujemy 
+wrzucamy pliki z foldera uber czarny/biały 
+do ścieszki update/x64/dlcpacks
+
+zrespić można pod nazwą: rs6avant20
